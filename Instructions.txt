@@ -1,0 +1,5 @@
+1. This Script was created using PyCharm IDE.
+2. Selenium web scraper was used to scrape the website.
+3. Add Selenium in Pycharm:Python Interpreter in settings.
+4. For the Script to run, latest Chromedriver should be downloaded from this website-"https://chromedriver.chromium.org/downloads".
+5. It's path should be given in the script(for my script chromedriver.exe file was located in Downloads folder).
